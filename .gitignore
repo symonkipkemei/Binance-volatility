@@ -7,7 +7,7 @@ __*__
 *.json
 
 # Virtual environment
-.venv
+/venv
 
 # IDE settings
 .vscode
