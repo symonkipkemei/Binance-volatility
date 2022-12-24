@@ -9598,3 +9598,312 @@ HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with
 [2022-12-24 22:37:49] Working...Session profit:-19.00% Est:$-2.85
 [2022-12-24 22:38:02] Working...Session profit:-19.00% Est:$-2.85
 [2022-12-24 22:38:15] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:38:27] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:38:28] BTTCUSDT has gained 1.587% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 22:38:40] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:38:41] TP or SL not yet reached, not selling COSUSDT for now 0.00455 - 0.00458 : 0.51% Est:$0.08
+[2022-12-24 22:38:52] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:39:05] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:39:17] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:39:30] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:39:31] MIRUSDT has gained 1.012% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 22:39:31] CVPUSDT has gained 1.21% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 22:39:43] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:39:55] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:40:08] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:40:20] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:40:33] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:40:46] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:40:46] COCOSUSDT has gained 1.095% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 22:40:47] TP or SL not yet reached, not selling COSUSDT for now 0.00455 - 0.00458 : 0.51% Est:$0.08
+[2022-12-24 22:40:58] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:41:10] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:41:23] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:41:35] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:41:36] BTTCUSDT has gained 1.587% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 22:41:48] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:42:00] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:42:12] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:42:25] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:42:37] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:42:50] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:42:51] TP or SL not yet reached, not selling COSUSDT for now 0.00455 - 0.00457 : 0.29% Est:$0.04
+[2022-12-24 22:43:02] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:43:15] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:43:27] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:43:39] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:43:52] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:44:04] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:44:05] RADUSDT has gained 1.018% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 22:44:17] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:44:29] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:44:41] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:44:54] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:44:55] TP or SL not yet reached, not selling COSUSDT for now 0.00455 - 0.00457 : 0.29% Est:$0.04
+[2022-12-24 22:45:06] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:45:19] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:45:31] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:45:43] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:45:56] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:45:56] BTTCUSDT has gained 1.587% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 22:46:08] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:46:09] UTKUSDT has gained 1.124% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 22:46:09] CVPUSDT has gained 1.144% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 22:46:21] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:46:33] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:46:46] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:46:58] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:47:01] TP or SL not yet reached, not selling COSUSDT for now 0.00455 - 0.00457 : 0.29% Est:$0.04
+[2022-12-24 22:47:11] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:47:24] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:47:36] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:47:49] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:47:49] WANUSDT has gained 1.17% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 22:48:01] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:48:14] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:48:15] CVPUSDT has gained 1.334% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 22:48:27] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:48:39] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:48:52] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:49:05] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:49:07] TP or SL not yet reached, not selling COSUSDT for now 0.00455 - 0.00457 : 0.29% Est:$0.04
+[2022-12-24 22:49:17] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:49:30] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:49:42] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:49:55] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:50:08] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:50:21] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:50:33] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:50:46] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:50:46] WANUSDT has gained 1.627% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 22:50:58] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:51:11] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:51:11] BTTCUSDT has gained 1.587% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 22:51:12] TP or SL not yet reached, not selling COSUSDT for now 0.00455 - 0.00457 : 0.29% Est:$0.04
+[2022-12-24 22:51:23] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:51:35] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:51:48] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:52:01] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:52:13] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:52:25] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:52:38] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:52:50] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:53:03] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:53:15] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:53:16] TP or SL not yet reached, not selling COSUSDT for now 0.00455 - 0.00457 : 0.29% Est:$0.04
+[2022-12-24 22:53:28] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:53:29] MULTIUSDT has gained 1.106% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 22:53:41] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:53:41] OOKIUSDT has gained 1.316% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 22:53:53] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:54:05] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:54:18] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:54:30] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:54:43] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:54:56] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:55:08] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:55:09] BTTCUSDT has gained 1.587% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 22:55:21] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:55:22] TP or SL not yet reached, not selling COSUSDT for now 0.00455 - 0.00457 : 0.29% Est:$0.04
+[2022-12-24 22:55:34] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:55:46] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:55:59] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:56:11] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:56:23] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:56:37] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:56:49] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:57:02] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:57:14] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:57:15] CVPUSDT has gained 1.68% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 22:57:27] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:57:27] BTTCUSDT has gained 1.587% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 22:57:28] TP or SL not yet reached, not selling COSUSDT for now 0.00455 - 0.00457 : 0.29% Est:$0.04
+[2022-12-24 22:57:39] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:57:51] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:58:05] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:58:17] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:58:30] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:58:43] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:58:55] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:59:08] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:59:20] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:59:33] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:59:34] TP or SL not yet reached, not selling COSUSDT for now 0.00455 - 0.00458 : 0.51% Est:$0.08
+[2022-12-24 22:59:45] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:59:45] WANUSDT has gained 1.104% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 22:59:57] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 22:59:58] BTTCUSDT has gained 1.587% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 23:00:10] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:00:23] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:00:36] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:00:48] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:01:01] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:01:01] OOKIUSDT has gained 1.294% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 23:01:13] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:01:25] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:01:25] DREPUSDT has gained 1.107% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 23:01:37] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:01:38] RADUSDT has gained 1.315% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 23:01:38] TP or SL not yet reached, not selling COSUSDT for now 0.00455 - 0.00458 : 0.51% Est:$0.08
+[2022-12-24 23:01:50] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:02:02] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:02:14] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:02:27] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:02:39] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:02:51] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:03:04] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:03:16] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:03:28] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:03:42] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:03:42] TP or SL not yet reached, not selling COSUSDT for now 0.00455 - 0.00457 : 0.29% Est:$0.04
+[2022-12-24 23:03:54] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:04:06] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:04:20] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:04:20] WANUSDT has gained 1.35% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 23:04:32] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:04:45] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:04:46] OOKIUSDT has gained 1.274% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 23:04:58] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:05:11] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:05:23] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:05:36] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:05:36] BTTCUSDT has gained 1.587% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 23:05:48] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:05:50] TP or SL not yet reached, not selling COSUSDT for now 0.00455 - 0.00457 : 0.29% Est:$0.04
+[2022-12-24 23:06:01] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:06:13] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:06:26] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:06:26] WANUSDT has gained 1.867% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 23:06:38] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:06:39] BEAMUSDT has gained 1.411% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 23:06:51] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:07:04] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:07:16] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:07:17] VOXELUSDT has gained 1.312% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 23:07:29] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:07:41] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:07:54] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:07:55] TP or SL not yet reached, not selling COSUSDT for now 0.00455 - 0.00457 : 0.29% Est:$0.04
+[2022-12-24 23:08:07] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:08:19] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:08:32] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:08:44] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:08:45] WANUSDT has gained 1.266% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 23:08:57] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:09:09] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:09:22] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:09:22] VOXELUSDT has gained 1.12% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 23:09:34] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:09:46] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:09:48] BTTCUSDT has gained 1.587% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 23:10:00] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:10:01] TP or SL not yet reached, not selling COSUSDT for now 0.00455 - 0.00458 : 0.51% Est:$0.08
+[2022-12-24 23:10:12] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:10:25] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:10:37] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:10:50] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:10:50] WANUSDT has gained 6.305% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 23:11:02] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:11:15] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:11:27] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:11:28] VOXELUSDT has gained 1.161% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 23:11:40] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:11:52] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:12:04] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:12:05] TP or SL not yet reached, not selling COSUSDT for now 0.00455 - 0.00457 : 0.29% Est:$0.04
+[2022-12-24 23:12:17] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:12:29] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:12:42] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:12:54] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:13:07] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:13:19] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:13:33] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:13:45] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:13:58] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:14:10] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:14:11] WANUSDT has gained 2.228% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 23:14:12] TP or SL not yet reached, not selling COSUSDT for now 0.00455 - 0.00457 : 0.29% Est:$0.04
+[2022-12-24 23:14:23] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:14:35] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:14:48] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:15:00] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:15:01] BTTCUSDT has gained 1.587% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 23:15:13] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:15:25] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:15:37] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:15:50] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:16:02] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:16:15] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:16:17] TP or SL not yet reached, not selling COSUSDT for now 0.00455 - 0.00456 : 0.07% Est:$0.01
+[2022-12-24 23:16:28] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:16:40] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:16:53] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:17:05] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:17:17] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:17:30] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:17:43] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:17:44] WANUSDT has gained 1.3% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 23:17:56] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:18:08] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:18:20] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:18:22] TP or SL not yet reached, not selling COSUSDT for now 0.00455 - 0.00456 : 0.07% Est:$0.01
+[2022-12-24 23:18:33] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:18:34] FIDAUSDT has gained 1.023% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 23:18:46] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:18:59] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:19:11] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:19:12] VOXELUSDT has gained 1.293% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 23:19:24] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:19:37] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:19:49] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:19:50] WANUSDT has gained 1.239% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 23:20:02] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:20:15] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:20:15] UTKUSDT has gained 1.513% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 23:20:27] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:20:28] TP or SL not yet reached, not selling COSUSDT for now 0.00455 - 0.00456 : 0.07% Est:$0.01
+[2022-12-24 23:20:39] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:20:51] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:21:04] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:21:17] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:21:17] DREPUSDT has gained 1.127% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 23:21:29] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:21:42] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:21:54] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:22:07] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:22:20] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:22:32] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:22:33] TP or SL not yet reached, not selling COSUSDT for now 0.00455 - 0.00456 : 0.07% Est:$0.01
+[2022-12-24 23:22:44] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:22:57] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:23:09] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:23:21] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:23:34] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:23:47] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:24:00] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:24:13] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:24:25] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:24:37] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:24:39] TP or SL not yet reached, not selling COSUSDT for now 0.00455 - 0.00458 : 0.51% Est:$0.08
+[2022-12-24 23:24:50] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:25:02] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:25:15] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:25:27] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:25:40] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:25:52] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:26:05] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:26:18] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:26:30] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:26:31] PSGUSDT has gained 1.252% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 23:26:43] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:26:44] TP or SL not yet reached, not selling COSUSDT for now 0.00455 - 0.00457 : 0.29% Est:$0.04
+[2022-12-24 23:26:55] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:27:08] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:27:09] OOKIUSDT has gained 1.299% within the last 2 minutes, but you are holding max number of coins
+[2022-12-24 23:27:21] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:27:34] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:27:47] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:27:59] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:28:12] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:28:24] Working...Session profit:-19.00% Est:$-2.85
+[2022-12-24 23:28:37] Working...Session profit:-19.00% Est:$-2.85
